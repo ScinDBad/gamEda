@@ -7,3 +7,4 @@ plotly==5.4.0
 scipy==1.10.1
 nbformat
 jinja2
+python-dotenv
