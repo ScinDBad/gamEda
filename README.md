@@ -1,10 +1,7 @@
 # gamEda
 __Sales insights and popularity of videogames and consoles__
 
-<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/ec542f17-8b48-4d86-8dcc-7bcab42b0762" width="250">
-
-
-
+<img src="https://github.com/ScinDBad/gamEda/assets/153782475/cd721a07-2868-4aa5-bb47-8c925539f310" width="220">
 
 ### Description:
 
@@ -22,7 +19,7 @@ This will also help the store to plan stock of titles and platforms according to
 - Fulfill absent videogame data by using API database requests.<br>
 - Explore sales and popularity of both games and platforms (consider lifetime).<br>
 - Explore sales and score relationship .<br>
-- Select and perform statisctic test to compare mean scores of both similar sales-platforms and similar sales-genres.<br>
+- Select and perform statisctic test to compare mean scores of both similar sales-platforms and sales-genres.<br>
 
 ### Tools:<br>
 Python, Jupyter, Project IDX
