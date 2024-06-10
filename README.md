@@ -26,6 +26,10 @@ Python, Jupyter, Project IDX
 
 <img src="https://github.com/ScinDBad/gamEda/assets/153782475/b44447b0-2286-4c64-889c-1944c1c7e51c" alt="Diagrama en blanco1" width="175">
 
+check
+
+https://vscode.dev/github/ScinDBad/gamEda/blob/main
+
 ___
 ### Instructions:
 - Create a virtual environment.
