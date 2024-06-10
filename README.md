@@ -1,10 +1,7 @@
 # gamEda
 __Sales insights and popularity of videogames and consoles__
 
-<img src="https://github.com/ScinDBad/gamEda/assets/153782475/cd721a07-2868-4aa5-bb47-8c925539f310" width="220"><br>
-
-<img src="https://github.com/ScinDBad/gamEda/assets/153782475/e77e7ac1-f03f-4cc8-b20a-0427c8c2266f" width="400">
-
+<img src="https://github.com/ScinDBad/gamEda/assets/153782475/df96663d-aa78-4f83-a76c-e9a73d10e5d9" width="200"><br>
 
 ### Description:
 
