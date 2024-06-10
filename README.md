@@ -33,7 +33,6 @@ ___
 - __For local work:__ Install `Python 3.9.19`
 - __For Cloud work:__ Set/enable the packages `pkgs.python39`, `pkgs.python39Packages.pip` in the `.idx/dev.nix` file.
 - Install `requirements.txt`
-- For API request, get an own API-key from https://www.gamespot.com/api/ or any other site.
   
 <details>
 <summary>Or install libraies separately in terminal</summary><br>
@@ -55,6 +54,7 @@ pip install pandas==1.2.4 numpy==1.21.2 seaborn==0.11.1 matplotlib==3.3.4 plotly
 ```
 </details>
 
+- For API request, get an own API-key from https://www.gamespot.com/api/ or any other site.
 
 ___*Note:___
 _This project was carried out within the Google IDX environment based on Nix.
