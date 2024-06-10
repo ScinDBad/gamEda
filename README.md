@@ -3,6 +3,7 @@ __Sales insights and popularity of videogames and consoles__
 
 <img src="https://github.com/ScinDBad/gamEda/assets/153782475/cd721a07-2868-4aa5-bb47-8c925539f310" width="220">
 
+
 ### Description:
 
 
@@ -13,7 +14,7 @@ This will also help the store to plan stock of titles and platforms according to
 
 
 ### Process: 
-<img src="https://github.com/ScinDBad/churn_prediction_fitness/assets/153782475/d173b8ce-3555-4be8-9f52-02e97e16a9ff" alt="Diagrama en blanco" width="500">
+<img src="https://github.com/ScinDBad/gamEda/assets/153782475/c359b6fb-47c5-4aa4-91cb-a354877882a0" alt="Diagrama en blanco" width="500">
 
 - Exploratory Data Analysis with preprocessing, outlier replacement, and absent values fill.<br>
 - Fulfill absent videogame data by using API database requests.<br>
@@ -28,10 +29,11 @@ Python, Jupyter, Project IDX
 
 ___
 ### Instructions:
-- Create a virtual environment
+- Create a virtual environment.
 - __For local work:__ Install `Python 3.9.19`
-- __For Cloud work:__ Set/enable the packages `pkgs.python39`, `pkgs.python39Packages.pip` in the .idx/dev.nix file.
+- __For Cloud work:__ Set/enable the packages `pkgs.python39`, `pkgs.python39Packages.pip` in the `.idx/dev.nix` file.
 - Install `requirements.txt`
+- For API request, get an own API-key from https://www.gamespot.com/api/ or any other site.
   
 <details>
 <summary>Or install libraies separately in terminal</summary><br>
