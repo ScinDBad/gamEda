@@ -33,19 +33,18 @@ ___
 - __For local work:__ Install `Python 3.9.19`
 - __For Cloud work:__ Set/enable the packages `pkgs.python39`, `pkgs.python39Packages.pip` in the `.idx/dev.nix` file.
 - Install `requirements.txt`
-  
 <details>
-<summary>Or install libraies separately in terminal</summary><br>
-
-  - pandas 1.2.4
-  - numpy 1.21.2
-  - seaborn 0.11.1
-  - matplotlib 3.3.4
-  - plotly 5.4.0
-  - scipy 1.10.1
-  - requests 2.31.0
-  - nbformat
-  - jinja2
+<summary>Or install libraries manually in terminal</summary><br>
+  
+  - pandas 1.2.4<br>
+  - numpy 1.21.2<br>
+  - seaborn 0.11.1<br>
+  - matplotlib 3.3.4<br>
+  - plotly 5.4.0<br>
+  - scipy 1.10.1<br>
+  - requests 2.31.0<br>
+  - nbformat<br>
+  - jinja2<br>
   - python-dotenv
 
 
